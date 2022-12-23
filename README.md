@@ -1,2 +1,7 @@
-# MegamanX3-Zero-Slides
-Simple slides in js
+## Slider automático simples
+### Html5/Css3/Javascript
+
+
+
+
+
