@@ -1,11 +1,9 @@
-## Slider automático simples
-### Html5/Css3/Javascript
+### Slider automático simples / Html5/Css3/Javascript
+#### Background Zero, 5 rádio buttons onde são clicáveis e te enviam a foto, caso contrário o código de Javascript vai passando as imagens automáticamente, e em baixo uma tag audio controls com trilha maravilhosa deste personagem.
 
-https://github.com/HELLWAISER/MegamanX3-Zero-Slides/blob/master/slide%20mod-01.png
 
-<div align="center">
-    <img src="https://github.com/HELLWAISER/MegamanX3-Zero-Slides/blob/master/slide%20mod-01.png" position="center" width="950px" height="500px">
-</div>
+![slide mod-01](https://user-images.githubusercontent.com/77547964/209247721-a9462344-7ef1-4002-81b8-1ecd4fca25ce.png)
+
 
 
 
