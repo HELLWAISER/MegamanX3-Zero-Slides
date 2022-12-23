@@ -4,7 +4,7 @@
 https://github.com/HELLWAISER/MegamanX3-Zero-Slides/blob/master/slide%20mod-01.png
 
 <div align="center">
-<img src="/HELLWAISER/MegamanX3-Zero-Slides/blob/master/slide%20mod-01.png" position="center" width="950px" height="500px"  >
+    <img src="github.com/HELLWAISER/MegamanX3-Zero-Slides/edit/master/README.md" position="center" width="950px" height="500px"  >
 </div>
 
 
